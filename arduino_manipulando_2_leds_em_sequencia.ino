@@ -1,5 +1,5 @@
 /*
- * Acende dois led e os fazem piscar
+ * Acende dois led e os fazem piscar em paralelo.
  * 
  */
 
