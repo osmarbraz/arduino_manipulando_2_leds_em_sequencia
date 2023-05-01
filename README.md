@@ -1,8 +1,8 @@
-# Projeto Arduíno para manipular 2 leds em sequência
+# Projeto Arduíno para manipular 2 LEDs em sequência
 
 ## Contextualização
 
-Neste experimento faremos com que o LED incorporado e dois leds pisquem juntos utilizando o pino digital 13 (pino digital incorporado LED_BUILTIN = 13). 
+Neste experimento faremos com que o LED incorporado e dois LEDs pisquem juntos utilizando o pino digital 13 (pino digital incorporado LED_BUILTIN = 13). 
 
 ## Lista de componentes:
 
